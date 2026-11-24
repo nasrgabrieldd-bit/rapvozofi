@@ -1,0 +1,148 @@
+{
+ "regras": {
+  "horarios": [
+   "15:00",
+   "18:00"
+  ],
+  "fuso": "America/Sao_Paulo",
+  "limite_publer_free_por_conta": 10,
+  "rotulo_ia": true
+ },
+ "fila": [
+  {
+   "id": "rv_raiz_001",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_raiz_001.mp4",
+   "legenda": "Antes de virar palco, o hip hop paulistano tinha um chão: o largo da estação São Bento, no centro de SP. Nos anos 80, foi ali que dança, DJ, MC e grafite se encontraram.\n\nFontes: Brasil de Fato (2026), Alesp (2024), Revista Pesquisa FAPESP (2023), Sesc SP (2017)\n\n#rapnacional #hiphop #historiadorap #saobento #rapvoz",
+   "tiktok": {
+    "status": "agendado",
+    "data_hora": "2026-11-24 15:00"
+   }
+  },
+  {
+   "id": "rv_sabia_001",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_sabia_001.mp4",
+   "legenda": "Rap não nasceu como sigla de \"rhythm and poetry\". A palavra vem do inglês antigo (\"batida\"), ganhou o sentido de \"conversar\" e, no fim dos anos 70, em Nova York, virou nome de música.\n\nFontes: Online Etymology Dictionary, Merriam-Webster, Billboard Brasil (2026), XXL\n\n#rap #hiphop #vocesabia #curiosidades #rapvoz",
+   "tiktok": {
+    "status": "agendado",
+    "data_hora": "2026-11-24 18:00"
+   }
+  },
+  {
+   "id": "rv_faixa_001",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_faixa_001.mp4",
+   "legenda": "\"AmarElo\", do Emicida, abre com uma voz gravada 43 anos antes: Belchior, em \"Sujeito de Sorte\", do disco \"Alucinação\" (1976).\n\nFontes: Rolling Stone Brasil (2019), Uai (2019), Brasil de Fato (2021), Recording Academy (2020)\n\n#rapnacional #emicida #belchior #amarelo #rapvoz",
+   "tiktok": {
+    "status": "agendado",
+    "data_hora": "2026-11-25 15:00"
+   }
+  },
+  {
+   "id": "rv_quebrada_001",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_quebrada_001.mp4",
+   "legenda": "A CUFA, Central Única das Favelas, nasceu no fim dos anos 90 no Rio, da união de jovens de favela ligados ao hip hop, entre eles Celso Athayde, MV Bill e Nega Gizza.\n\nFontes: dissertação PUC-Rio, Ashoka, Devex, site da CUFA\n\n#cufa #hiphop #favelaepotencia #quebrada #rapvoz",
+   "tiktok": {
+    "status": "agendado",
+    "data_hora": "2026-11-25 18:00"
+   }
+  },
+  {
+   "id": "rv_bronx_001",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_bronx_001.mp4",
+   "legenda": "11 de agosto de 1973: Cindy Campbell faz uma festa de volta às aulas no Bronx e o irmão, DJ Kool Herc, estica os breaks em dois toca-discos. Essa noite é lembrada como o marco do nascimento do hip hop.\n\nFontes: NPR (2023), Smithsonian Magazine, Recording Academy, Rock & Roll Hall of Fame\n\n#hiphop #koolherc #bronx #historiadorap #rapvoz",
+   "tiktok": {
+    "status": "agendado",
+    "data_hora": "2026-11-26 15:00"
+   }
+  },
+  {
+   "id": "rv_mulheres_001",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_mulheres_001.mp4",
+   "legenda": "Da igreja na Brasilândia ao RZO, do filme \"Antônia\" aos 30 anos de carreira com \"O Silêncio que Grita\": a trajetória de Negra Li, uma das pioneiras do rap feito por mulheres no Brasil.\n\nFontes: Carta Capital, Rolling Stone Brasil, Alma Preta (2026), Correio Braziliense (2025)\n\n#negrali #rapnacional #mulheresnorap #rzo #rapvoz",
+   "tiktok": {
+    "status": "agendado",
+    "data_hora": "2026-11-26 18:00"
+   }
+  },
+  {
+   "id": "rv_raiz_002",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_raiz_002.mp4",
+   "legenda": "O dia em que um disco de rap entrou na lista de leitura obrigatória da Unicamp. Em 2018, Sobrevivendo no Inferno, dos Racionais MC's, entrou na lista do Vestibular 2020, na categoria poesia.\nFontes: JB e Metrópoles (24/05/2018), Companhia das Letras, Revista Muitas Vozes (UEPG).\n#rapnacional #racionais #hiphop #vestibular #historiadorap #rapvoz",
+   "tiktok": {
+    "status": "agendado",
+    "data_hora": "2026-11-27 15:00"
+   }
+  },
+  {
+   "id": "rv_sabia_002",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_sabia_002.mp4",
+   "legenda": "Paris 2024: o breaking, dança que nasceu no Bronx, estreou nos Jogos Olímpicos. B-Girl Ami (Japão) e B-Boy Phil Wizard (Canadá) foram os primeiros campeões.\nFontes: Olympics.com, NBC Olympics, World DanceSport, Comitê Olímpico do Canadá, theScore.\n#breaking #bboy #bgirl #hiphop #olimpiadas #rapvoz",
+   "tiktok": {
+    "status": "agendado",
+    "data_hora": "2026-11-27 18:00"
+   }
+  },
+  {
+   "id": "rv_faixa_002",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_faixa_002.mp4",
+   "legenda": "Ismália é um poema de Alphonsus de Guimaraens, poeta simbolista mineiro. Em 2019, virou faixa do álbum AmarElo, do Emicida, com Larissa Luz e Fernanda Montenegro.\nFontes: Estado de Minas (10/11/2019), Billboard Brasil, Outras Palavras, Revista Ecos (Unemat).\n#emicida #amarelo #rapnacional #literatura #poesia #rapvoz",
+   "tiktok": {
+    "status": "agendado",
+    "data_hora": "2026-11-28 15:00"
+   }
+  },
+  {
+   "id": "rv_quebrada_002",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_quebrada_002.mp4",
+   "legenda": "O Sarau da Cooperifa nasceu em 2001, em Taboão da Serra, e cresceu no Bar do Zé Batidão, na Zona Sul de São Paulo. Uma história de poesia, microfone aberto e periferia.\nFontes: Le Monde Diplomatique Brasil, Outras Palavras, Câmara Municipal de SP (revista Apartes), JB, revistas da USP.\n#cooperifa #sarau #poesia #periferia #rapnacional #rapvoz",
+   "tiktok": {
+    "status": "agendado",
+    "data_hora": "2026-11-28 18:00"
+   }
+  },
+  {
+   "id": "rv_bronx_002",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_bronx_002.mp4",
+   "legenda": "Em 16/04/2018, DAMN., de Kendrick Lamar, ganhou o Pulitzer de Música. Foi a primeira vez que o prêmio saiu da música clássica e do jazz.\nFontes: NPR, Fortune, CBS News/AP, History.com.\n#kendricklamar #pulitzer #hiphop #rap #historiadorap #rapvoz",
+   "tiktok": {
+    "status": "pendente",
+    "data_hora": null
+   }
+  },
+  {
+   "id": "rv_mulheres_002",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_mulheres_002.mp4",
+   "legenda": "24/02/1999: Lauryn Hill ganhou 5 Grammys numa noite com The Miseducation of Lauryn Hill. Foi o primeiro álbum de hip-hop a vencer Álbum do Ano.\nFontes: Recording Academy (grammy.com), XXL, Black America Web, American Songwriter.\n#laurynhill #mulheresnorap #hiphop #grammy #rapvoz",
+   "tiktok": {
+    "status": "pendente",
+    "data_hora": null
+   }
+  },
+  {
+   "id": "rv_sabia_003",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_sabia_003.mp4",
+   "legenda": "Brô MC's, de Dourados (MS), é o primeiro grupo de rap indígena do Brasil. Formado em 2009 por jovens Guarani Kaiowá, canta em português e guarani e se apresentou no Rock in Rio 2022.\nFontes: National Geographic Brasil, Correio do Estado, Campo Grande News, Folha Vitória/Estadão.\n#bromcs #rapindigena #guaranikaiowa #rapnacional #rapvoz",
+   "tiktok": {
+    "status": "pendente",
+    "data_hora": null
+   }
+  },
+  {
+   "id": "rv_mulheres_003",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_mulheres_003.mp4",
+   "legenda": "Em 03/11/2023, Missy Elliott se tornou a primeira rapper mulher no Rock & Roll Hall of Fame, apresentada por Queen Latifah.\nFontes: XXL, Essence, CBS News, Rock & Roll Hall of Fame, AP.\n#missyelliott #mulheresnorap #hiphop #rockhall #rapvoz",
+   "tiktok": {
+    "status": "pendente",
+    "data_hora": null
+   }
+  },
+  {
+   "id": "rv_raiz_003",
+   "video_url": "https://nasrgabrieldd-bit.github.io/rapvozofi/videos/rv_raiz_003.mp4",
+   "legenda": "Hip-Hop Cultura de Rua (1988) é lembrado como o primeiro disco de rap do Brasil. Reuniu Thaíde & DJ Hum, MC Jack, Código 13 e O Credo, artistas que vieram da turma da Estação São Bento.\nFontes: Agência Brasil (15/11/2023), Gazeta SP, Sesc SP, Red Bull Brasil, USP.\n#rapnacional #hiphopbrasil #thaide #saobento #historiadorap #rapvoz",
+   "tiktok": {
+    "status": "pendente",
+    "data_hora": null
+   }
+  }
+ ]
+}
